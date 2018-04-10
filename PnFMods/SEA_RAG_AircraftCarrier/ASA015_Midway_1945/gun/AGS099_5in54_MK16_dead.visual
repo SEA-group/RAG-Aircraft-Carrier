@@ -1,1 +1,38 @@
-<AGS099_5in54_MK16_dead.visual><boundingBox><min>-0.149617 -0.013007 -0.190730</min><max>0.157439 0.277224 0.435016</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>AGS099_5in54_MK16_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>AGS099_5in54_MK16_dead</node><geometry><vertices>AGS099_5in54_MK16_deadShape.vertices</vertices><primitive>AGS099_5in54_MK16_deadShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/d9ea8c3482bbe2f48d7e3bf3e5e1c1d6.mfm</mfm></material></primitiveGroup></geometry></renderSet></AGS099_5in54_MK16_dead.visual>
+<AGS099_5in54_MK16_dead.visual>
+	<boundingBox>
+		<min>	-0.149617 -0.013007 -0.190730	</min>
+		<max>	0.157439 0.277224 0.435016	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	AGS099_5in54_MK16_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	AGS099_5in54_MK16_dead	</node>
+		<geometry>
+			<vertices>	AGS099_5in54_MK16_deadShape.vertices	</vertices>
+			<primitive>	AGS099_5in54_MK16_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGS099_5in54_MK16_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGS099_5in54_MK16_dead.visual>

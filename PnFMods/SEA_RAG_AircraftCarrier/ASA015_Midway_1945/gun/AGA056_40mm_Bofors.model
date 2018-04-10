@@ -1,1 +1,13 @@
-<AGA056_40mm_Bofors.model><castsShadow>false</castsShadow><extent>2.000000</extent><parent>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGA056_40mm_Bofors_lod1</parent><materialNames /><visibilityBox><min>-0.144601 -0.000000 -0.091230</min><max>0.144601 0.156729 0.162575</max></visibilityBox><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGA056_40mm_Bofors</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AGA056_40mm_Bofors.model>
+<AGA056_40mm_Bofors.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	4.0000	</extent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGA056_40mm_Bofors_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.144601 -0.000000 -0.091230	</min>
+		<max>	0.144601 0.156729 0.162575	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGA056_40mm_Bofors	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA056_40mm_Bofors.model>

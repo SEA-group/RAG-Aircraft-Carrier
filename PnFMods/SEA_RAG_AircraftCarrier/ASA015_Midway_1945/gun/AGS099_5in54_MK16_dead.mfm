@@ -1,0 +1,17 @@
+<AGS099_5in54_MK16_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGS099_5in54_MK16_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGS099_5in54_MK16_dead_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGS099_5in54_MK16_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/default_ao.dds	</Texture>
+	</property>
+</AGS099_5in54_MK16_dead.mfm>

@@ -1,0 +1,17 @@
+<C002_Razlom.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/C002_Razlom_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/C002_Razlom_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/C002_Razlom_n.dds	</Texture>
+	</property>
+</C002_Razlom.mfm>

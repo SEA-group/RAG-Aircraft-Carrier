@@ -1,0 +1,17 @@
+<AD042_Director_Mk37_Mod2.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/director/AD042_Director_Mk37_Mod2_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/director/AD042_Director_Mk37_Mod2_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/director/AD042_Director_Mk37_Mod2_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/director/default_ao.dds	</Texture>
+	</property>
+</AD042_Director_Mk37_Mod2.mfm>

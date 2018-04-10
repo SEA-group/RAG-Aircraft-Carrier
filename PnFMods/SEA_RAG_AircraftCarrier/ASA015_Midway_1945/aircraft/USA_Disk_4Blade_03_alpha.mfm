@@ -1,0 +1,14 @@
+<USA_Disk_4Blade_03_alpha.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/common/textures/USA_Disk_4Blade_03_alpha_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+</USA_Disk_4Blade_03_alpha.mfm>

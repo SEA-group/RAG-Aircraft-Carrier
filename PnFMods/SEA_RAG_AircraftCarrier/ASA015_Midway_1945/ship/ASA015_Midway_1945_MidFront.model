@@ -1,1 +1,8 @@
-<ASA015_Midway_1945_MidFront.model><exporter>1.6</exporter><parent>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/ASA015_Midway_1945_MidFront_lod1</parent><extent>10.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/ASA015_Midway_1945_MidFront</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></ASA015_Midway_1945_MidFront.model>
+<ASA015_Midway_1945_MidFront.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/ASA015_Midway_1945_MidFront_lod1	</parent>
+	<extent>	10.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/ship/ASA015_Midway_1945_MidFront	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASA015_Midway_1945_MidFront.model>

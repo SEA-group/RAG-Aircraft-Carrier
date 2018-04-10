@@ -1,1 +1,38 @@
-<AGA002_40mm_Bofors_Mk1_dead_lod2.visual><boundingBox><min>-0.087047 -0.001920 -0.110299</min><max>0.113089 0.145063 0.153800</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Bofors_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bofors_dead</node><geometry><vertices>Bofors_dead_lod2Shape.vertices</vertices><primitive>Bofors_dead_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/cc49ccbd3676a3081a75e50542df4cc6.mfm</mfm></material></primitiveGroup></geometry></renderSet></AGA002_40mm_Bofors_Mk1_dead_lod2.visual>
+<AGA002_40mm_Bofors_Mk1_dead_lod2.visual>
+	<boundingBox>
+		<min>	-0.087047 -0.001920 -0.110299	</min>
+		<max>	0.113089 0.145063 0.153800	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bofors_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bofors_dead	</node>
+		<geometry>
+			<vertices>	Bofors_dead_lod2Shape.vertices	</vertices>
+			<primitive>	Bofors_dead_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGA002_40mm_Bofors_Mk1_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGA002_40mm_Bofors_Mk1_dead_lod2.visual>

@@ -1,1 +1,56 @@
-<AGA018_20mm_Oerlikon_MK20_Twin_lod3.visual><boundingBox><min>-0.052588 -0.000000 -0.049046</min><max>0.052664 0.136834 0.077422</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>OerlikonTwin</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_gunFire1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.006361 0.134845 0.076884 1.000000</row3></transform></node><node><identifier>HP_gunFire2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>-0.006338 0.134845 0.076884 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>OerlikonTwin</node><geometry><vertices>OerlikonTwin_lod3Shape.vertices</vertices><primitive>OerlikonTwin_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Gun</identifier><mfm>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/31f18c110e10f6b5574aecafe8023483.mfm</mfm></material></primitiveGroup></geometry></renderSet></AGA018_20mm_Oerlikon_MK20_Twin_lod3.visual>
+<AGA018_20mm_Oerlikon_MK20_Twin_lod3.visual>
+	<boundingBox>
+		<min>	-0.052588 -0.000000 -0.049046	</min>
+		<max>	0.052664 0.136834 0.077422	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	OerlikonTwin	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.006361 0.134845 0.076884 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.006338 0.134845 0.076884 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	OerlikonTwin	</node>
+		<geometry>
+			<vertices>	OerlikonTwin_lod3Shape.vertices	</vertices>
+			<primitive>	OerlikonTwin_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGA003_20mm_Oerlikon_MK4.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGA018_20mm_Oerlikon_MK20_Twin_lod3.visual>

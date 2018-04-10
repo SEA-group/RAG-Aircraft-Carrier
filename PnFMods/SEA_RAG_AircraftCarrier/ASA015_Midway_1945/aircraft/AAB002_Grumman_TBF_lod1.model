@@ -1,0 +1,29 @@
+<AAB002_Grumman_TBF_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<action>
+		<name>	start	</name>
+		<animation>	CAA_aircraft_propeller_R	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	20.0000	</extent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/aircraft/AAB002_Grumman_TBF_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.546105 -0.032703 -0.581129	</min>
+		<max>	0.546067 0.340789 0.228032	</max>
+	</visibilityBox>
+	<animation>
+		<name>	CAA_aircraft_propeller_R	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/CAA_aircraft_propeller_R	</nodes>
+		<alpha>
+			<propeller_disk_lod1>	0.000000	</propeller_disk_lod1>
+			<disk_lod1>	1.000000	</disk_lod1>
+			<disk>	1.000000	</disk>
+			<propeller_disk>	0.000000	</propeller_disk>
+		</alpha>
+	</animation>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/aircraft/AAB002_Grumman_TBF_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAB002_Grumman_TBF_lod1.model>

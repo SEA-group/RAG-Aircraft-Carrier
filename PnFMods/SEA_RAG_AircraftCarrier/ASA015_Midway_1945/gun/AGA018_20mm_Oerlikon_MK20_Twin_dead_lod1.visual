@@ -1,1 +1,38 @@
-<AGA018_20mm_Oerlikon_MK20_Twin_dead_lod1.visual><boundingBox><min>-0.030717 -0.000000 -0.072073</min><max>0.029218 0.130917 0.079536</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>OerlikonTwin_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>OerlikonTwin_dead</node><geometry><vertices>OerlikonTwin_dead_lod1Shape.vertices</vertices><primitive>OerlikonTwin_dead_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/12da7a5c3c3be7ac3bf5e002c20965f0.mfm</mfm></material></primitiveGroup></geometry></renderSet></AGA018_20mm_Oerlikon_MK20_Twin_dead_lod1.visual>
+<AGA018_20mm_Oerlikon_MK20_Twin_dead_lod1.visual>
+	<boundingBox>
+		<min>	-0.030717 -0.000000 -0.072073	</min>
+		<max>	0.029218 0.130917 0.079536	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	OerlikonTwin_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	OerlikonTwin_dead	</node>
+		<geometry>
+			<vertices>	OerlikonTwin_dead_lod1Shape.vertices	</vertices>
+			<primitive>	OerlikonTwin_dead_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/gun/AGA003_20mm_Oerlikon_MK4_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGA018_20mm_Oerlikon_MK20_Twin_dead_lod1.visual>

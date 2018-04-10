@@ -1,0 +1,17 @@
+<ARS011_Radar_SK2_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/radar/ARS011_Radar_SK2_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/radar/ARS011_Radar_SK2_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/radar/ARS011_Radar_SK2_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/radar/default_ao.dds	</Texture>
+	</property>
+</ARS011_Radar_SK2_skinned.mfm>
