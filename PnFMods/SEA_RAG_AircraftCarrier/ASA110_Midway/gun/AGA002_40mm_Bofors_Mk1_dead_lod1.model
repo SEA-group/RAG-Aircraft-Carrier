@@ -1,0 +1,13 @@
+<AGA002_40mm_Bofors_Mk1_dead_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	8.0000	</extent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1_dead_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.087047 -0.001920 -0.110299	</min>
+		<max>	0.113089 0.158582 0.147320	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA002_40mm_Bofors_Mk1_dead_lod1.model>

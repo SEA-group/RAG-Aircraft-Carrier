@@ -1,0 +1,14 @@
+<ASA015_Midway_1945_Radar.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Radar_a.tga	</Texture>
+	</property>
+</ASA015_Midway_1945_Radar.mfm>

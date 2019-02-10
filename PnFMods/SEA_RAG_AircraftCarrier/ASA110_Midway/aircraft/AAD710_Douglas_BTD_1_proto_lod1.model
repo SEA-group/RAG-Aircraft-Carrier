@@ -1,0 +1,35 @@
+<AAD710_Douglas_BTD_1_proto_lod1.model>
+	<action>
+		<name>	bombbay_on	</name>
+		<animation>	NM001_AAD710_Douglas_BTD_1_proto_bombbay_on	</animation>
+	</action>
+	<action>
+		<name>	bombbay_off	</name>
+		<animation>	NM001_AAD710_Douglas_BTD_1_proto_bombbay_off	</animation>
+	</action>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1_proto_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<animation>
+		<name>	NM001_AAD710_Douglas_BTD_1_proto_bombbay_on	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/model/NM001_AAD710_Douglas_BTD_1_proto_bombbay	</nodes>
+		<lastFrame>	30	</lastFrame>
+		<alpha>
+			<propeller_mod>	0.0000	</propeller_mod>
+		</alpha>
+	</animation>
+	<animation>
+		<name>	NM001_AAD710_Douglas_BTD_1_proto_bombbay_off	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/model/NM001_AAD710_Douglas_BTD_1_proto_bombbay	</nodes>
+		<lastFrame>	60	</lastFrame>
+		<firstFrame>	30	</firstFrame>
+		<alpha>
+			<propeller_mod>	0.0000	</propeller_mod>
+		</alpha>
+	</animation>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1_proto_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAD710_Douglas_BTD_1_proto_lod1.model>

@@ -1,0 +1,17 @@
+<AAF710_F8F_Bearcat.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat_a.dds	</Texture>
+	</property>
+</AAF710_F8F_Bearcat.mfm>

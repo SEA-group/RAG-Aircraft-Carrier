@@ -1,0 +1,13 @@
+<AD027_Director_Mk57.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/director/AD027_Director_Mk57_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.039775 0.000000 -0.035327	</min>
+		<max>	0.040381 0.124057 0.038244	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/director/AD027_Director_Mk57	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD027_Director_Mk57.model>

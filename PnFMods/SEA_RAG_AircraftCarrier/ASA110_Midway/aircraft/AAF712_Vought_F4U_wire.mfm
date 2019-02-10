@@ -1,0 +1,14 @@
+<AAF712_Vought_F4U_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U_mg.dds	</Texture>
+	</property>
+</AAF712_Vought_F4U_wire.mfm>

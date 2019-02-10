@@ -1,9 +1,0 @@
-<AAF029_Vought_F4U_1A_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/aircraft/AAF029_Vought_F4U_1A_lod3	</parent>
-	<extent>	40.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA015_Midway_1945/aircraft/AAF029_Vought_F4U_1A_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</AAF029_Vought_F4U_1A_lod2.model>

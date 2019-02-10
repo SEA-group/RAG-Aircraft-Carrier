@@ -1,0 +1,17 @@
+<AGA002_40mm_Bofors_Mk1.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/default_ao.dds	</Texture>
+	</property>
+</AGA002_40mm_Bofors_Mk1.mfm>

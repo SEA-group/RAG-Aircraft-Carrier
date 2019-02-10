@@ -1,0 +1,12 @@
+<AD042_Director_Mk37_Mod2_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	80.0000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.171260 0.000000 -0.111364	</min>
+		<max>	0.171260 0.139762 0.115555	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/director/AD042_Director_Mk37_Mod2_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD042_Director_Mk37_Mod2_lod3.model>

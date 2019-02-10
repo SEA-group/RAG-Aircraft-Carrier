@@ -1,17 +1,12 @@
 ﻿# Aircraft Carrier from Red Alert 3
 
-
 ======================Presented by SEA group======================
-
 
 This mod applies to USN T10 carrier Midway
 Compatible with all kind of camouflages
 
-
 Installation: 
-
 Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
-
 
 Note that this mod doesn't change the collision model.
 

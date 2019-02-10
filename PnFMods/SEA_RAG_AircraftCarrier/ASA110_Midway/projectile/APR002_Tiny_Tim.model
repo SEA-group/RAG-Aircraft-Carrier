@@ -1,0 +1,9 @@
+<APR002_Tiny_Tim.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APR002_Tiny_Tim_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APR002_Tiny_Tim	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</APR002_Tiny_Tim.model>
