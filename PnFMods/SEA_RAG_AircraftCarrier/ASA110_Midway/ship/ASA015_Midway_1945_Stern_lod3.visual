@@ -97,8 +97,8 @@
 			<primitive>	Stern_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseWire	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed.mfm	</mfm>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

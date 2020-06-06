@@ -3,7 +3,7 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	content/gameplay/usa/aircraft/dive/textures/Planes_Propeller_3_bw_alpha_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/alpha.dds	</Texture>
 	</property>
 	<property>	doubleSided
 		<Bool>	true	</Bool>

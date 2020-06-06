@@ -208,7 +208,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_.mfm	</mfm>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -390,7 +390,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_.mfm	</mfm>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

@@ -160,8 +160,8 @@
 			<primitive>	Bow_DeckHouse_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_.mfm	</mfm>
+					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -202,8 +202,8 @@
 			<primitive>	Bow_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_.mfm	</mfm>
+					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -286,8 +286,8 @@
 			<primitive>	Bow_patch_MidFront_DeckHouse_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_.mfm	</mfm>
+					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

@@ -1,21 +1,13 @@
 ﻿# Aircraft Carrier from Red Alert 3
 
-======================Presented by SEA group======================
+Skin modification for tier 10 aircraft carrier **Midway**. 
 
-This mod applies to USN T10 carrier Midway
-Compatible with all kind of camouflages
+Presented by SEA group
 
-Installation: 
-Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
+## Installation
+* **For WGC users**, copy `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/res_mods/[version number]/`
+* **For Steam users**, copy `PnFMods` and `PnFModsLoader.py` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/[version number]/`
 
-Note that this mod doesn't change the collision model.
-
-本mod适用于中途岛
-自带迷彩免疫，不需要额外的迷彩屏蔽插件
-
-安装：
-把PnFMods和PnFModsLoader.py放到
-游戏安装目录/res_mods/版本号/ 
-里面即可
-
-注意该涂装不修改碰撞模型
+## 使用方法
+* **WG游戏中心用户**请把`PnFMods`和`PnFModsLoader.py`放到`[游戏安装目录]/res_mods/[版本号]/`里面
+* **Steam客户端用户**请把`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/[版本号]/`里面
