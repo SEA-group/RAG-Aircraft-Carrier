@@ -1,0 +1,8 @@
+<AGS099_5in54_MK16_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/lods/AGS099_5in54_MK16_lod3	</parent>
+	<extent>	30.000000	</extent>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/lods/AGS099_5in54_MK16_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGS099_5in54_MK16_lod2.model>

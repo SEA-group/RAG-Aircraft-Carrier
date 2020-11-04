@@ -1,0 +1,18 @@
+<ARS069_SR_2_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/radar/lods/ARS069_SR_2_lod3	</parent>
+	<extent>	10.0000	</extent>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/radar/lods/ARS069_SR_2_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ARS069_SR_2_lod2.model>

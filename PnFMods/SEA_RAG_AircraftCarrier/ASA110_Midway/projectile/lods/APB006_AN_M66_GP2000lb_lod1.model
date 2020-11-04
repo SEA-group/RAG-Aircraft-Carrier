@@ -1,0 +1,8 @@
+<APB006_AN_M66_GP2000lb_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/lods/APB006_AN_M66_GP2000lb_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/lods/APB006_AN_M66_GP2000lb_lod1	</nodefullVisual>
+	<extent>	6.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</APB006_AN_M66_GP2000lb_lod1.model>

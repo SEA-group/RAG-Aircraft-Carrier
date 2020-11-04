@@ -1,7 +1,7 @@
 <APR001_USA_HVAR_127mm.model>
 	<exporter>	1.6	</exporter>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APR001_USA_HVAR_127mm_lod1	</parent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/lods/APR001_USA_HVAR_127mm_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APR001_USA_HVAR_127mm	</nodefullVisual>
 	<extent>	3.0000	</extent>
 	<materialNames />

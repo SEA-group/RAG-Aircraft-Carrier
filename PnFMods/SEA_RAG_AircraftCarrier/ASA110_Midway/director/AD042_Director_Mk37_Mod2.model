@@ -1,7 +1,7 @@
 <AD042_Director_Mk37_Mod2.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.0000	</extent>
-	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/director/AD042_Director_Mk37_Mod2_lod1	</parent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/director/lods/AD042_Director_Mk37_Mod2_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.168469 0.000000 -0.146639	</min>

@@ -1,0 +1,8 @@
+<APT009_Avia_Bliss_Leavitt_Mk7D_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	20.0000	</extent>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/lods/APT009_Avia_Bliss_Leavitt_Mk7D_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/lods/APT009_Avia_Bliss_Leavitt_Mk7D_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</APT009_Avia_Bliss_Leavitt_Mk7D_lod2.model>

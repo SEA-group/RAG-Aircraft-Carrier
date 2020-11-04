@@ -1,6 +1,6 @@
 <AAF712_Vought_F4U_proto.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U_proto_lod1	</parent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/lods/AAF712_Vought_F4U_proto_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<materialNames />

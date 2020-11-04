@@ -1,6 +1,6 @@
 <APB006_AN_M66_GP2000lb.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb_lod1	</parent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/lods/APB006_AN_M66_GP2000lb_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb	</nodefullVisual>
 	<extent>	3.0000	</extent>
 	<castsShadow>	false	</castsShadow>

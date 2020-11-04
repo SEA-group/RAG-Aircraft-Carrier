@@ -6,7 +6,7 @@
 		<max>	0.086501 0.198320 0.134591	</max>
 	</visibilityBox>
 	<extent>	4.0000	</extent>
-	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1_lod1	</parent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/lods/AGA002_40mm_Bofors_Mk1_lod1	</parent>
 	<exporter>	1.6	</exporter>
 	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

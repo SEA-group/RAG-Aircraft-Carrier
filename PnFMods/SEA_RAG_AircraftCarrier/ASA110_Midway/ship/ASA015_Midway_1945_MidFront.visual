@@ -177,12 +177,6 @@
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_GlassDeck	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Deck.mfm	</mfm>
-				</material>
-			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
@@ -193,8 +187,8 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+					<identifier>	SHIPMAT_PBS_GlassDeck	</identifier>
+					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Deck.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

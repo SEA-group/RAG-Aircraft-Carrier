@@ -1,6 +1,6 @@
 <AAF710_F8F_Bearcat_proto.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat_proto_lod1	</parent>
+	<parent>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/lods/AAF710_F8F_Bearcat_proto_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat_proto	</nodefullVisual>
