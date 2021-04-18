@@ -845,7 +845,7 @@
 			<primitive>	HullShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -859,7 +859,7 @@
 			<primitive>	chassis_off_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -873,7 +873,7 @@
 			<primitive>	chassis_on_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -887,7 +887,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -901,7 +901,7 @@
 			<primitive>	pylon_bomb_default_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -915,7 +915,7 @@
 			<primitive>	pylon_bomb_custom_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -929,7 +929,7 @@
 			<primitive>	pylon_rocket_default_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -957,7 +957,7 @@
 			<primitive>	disc_1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -971,7 +971,7 @@
 			<primitive>	modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAD710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

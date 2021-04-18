@@ -29,7 +29,7 @@
 			<primitive>	AGS099_5in54_MK16_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGS099_5in54_MK16_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

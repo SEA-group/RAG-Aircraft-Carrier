@@ -47,7 +47,7 @@
 			<primitive>	Bofors_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA002_40mm_Bofors_Mk1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

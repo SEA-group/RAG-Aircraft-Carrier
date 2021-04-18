@@ -66,7 +66,7 @@
 			<primitive>	ARS016_Radar_SX_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Radar	</identifier>
+					<identifier>	SHIPMATX_PBS_Radar	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/radar/ARS016_Radar_SX_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

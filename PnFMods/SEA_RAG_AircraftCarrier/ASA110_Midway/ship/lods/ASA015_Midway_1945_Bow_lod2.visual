@@ -119,7 +119,7 @@
 			<primitive>	Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -133,7 +133,7 @@
 			<primitive>	Bow_Underwater_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -147,7 +147,7 @@
 			<primitive>	Bow_crack_MidFront_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -161,7 +161,7 @@
 			<primitive>	Bow_crack_MidFront_Underwater_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -175,7 +175,7 @@
 			<primitive>	Bow_crack_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -189,7 +189,7 @@
 			<primitive>	Bow_crack_MidFront_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -203,7 +203,7 @@
 			<primitive>	Bow_patch_MidFront_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -217,7 +217,7 @@
 			<primitive>	Bow_patch_MidFront_DeckHouse_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
+					<identifier>	SHIPWIREX_PBS_Removed	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -231,7 +231,7 @@
 			<primitive>	Bow_patch_MidFront_Underwater_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -245,7 +245,7 @@
 			<primitive>	Bow_patch_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -259,7 +259,7 @@
 			<primitive>	Bow_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -29,7 +29,7 @@
 			<primitive>	OerlikonTwin_dead_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/gun/AGA003_20mm_Oerlikon_MK4_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -713,7 +713,7 @@
 			<primitive>	Hull_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAB710_Douglas_BTD_1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -727,7 +727,7 @@
 			<primitive>	chassis_on_BlendBone_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAB710_Douglas_BTD_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -66,7 +66,7 @@
 			<primitive>	DirectorMk57_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/director/AD027_Director_MK57_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

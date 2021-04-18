@@ -692,7 +692,7 @@
 			<primitive>	hull_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -706,7 +706,7 @@
 			<primitive>	chassis_off_BlendBone_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -720,7 +720,7 @@
 			<primitive>	chassis_on_BlendBone_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -734,7 +734,7 @@
 			<primitive>	wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -762,7 +762,7 @@
 			<primitive>	disc_cap_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -776,7 +776,7 @@
 			<primitive>	mod_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -790,7 +790,7 @@
 			<primitive>	pylon_rocket_default_BlendBone_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -804,7 +804,7 @@
 			<primitive>	pylon_bomb_default_BlendBone_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -818,7 +818,7 @@
 			<primitive>	pylon_rocket_custom_BlendBone_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF710_F8F_Bearcat.mfm	</mfm>
 				</material>
 			</primitiveGroup>

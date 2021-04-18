@@ -759,7 +759,7 @@
 			<primitive>	hullShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -773,7 +773,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -787,7 +787,7 @@
 			<primitive>	chassis_on_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -801,7 +801,7 @@
 			<primitive>	chassis_off_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -815,7 +815,7 @@
 			<primitive>	pylon_rocket_default_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -843,7 +843,7 @@
 			<primitive>	disc_capShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -857,7 +857,7 @@
 			<primitive>	modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/aircraft/AAF712_Vought_F4U.mfm	</mfm>
 				</material>
 			</primitiveGroup>

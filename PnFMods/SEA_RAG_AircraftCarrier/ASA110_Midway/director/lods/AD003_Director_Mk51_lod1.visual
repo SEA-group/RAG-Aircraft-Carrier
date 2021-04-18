@@ -29,7 +29,7 @@
 			<primitive>	AD003_Director_Mk51_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/director/AD003_Director_Mk51.mfm	</mfm>
 				</material>
 			</primitiveGroup>

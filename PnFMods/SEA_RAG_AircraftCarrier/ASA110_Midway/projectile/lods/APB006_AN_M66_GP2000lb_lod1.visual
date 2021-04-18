@@ -25,7 +25,7 @@
 			<primitive>	Bomb_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_NODAMAGE_PBS_Projectile	</identifier>
+					<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb.mfm	</mfm>
 				</material>
 			</primitiveGroup>

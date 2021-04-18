@@ -173,7 +173,7 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -187,7 +187,7 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GlassDeck	</identifier>
+					<identifier>	SHIPMATX_PBS_GlassDeck	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Deck.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -201,7 +201,7 @@
 			<primitive>	MidFront_DeckHouse_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
+					<identifier>	SHIPWIREX_PBS_Removed	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -229,7 +229,7 @@
 			<primitive>	MidFront_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -243,7 +243,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -257,7 +257,7 @@
 			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -271,7 +271,7 @@
 			<primitive>	MidFront_crack_Bow_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -285,7 +285,7 @@
 			<primitive>	MidFront_crack_Bow_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -299,7 +299,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -313,7 +313,7 @@
 			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -327,7 +327,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -341,7 +341,7 @@
 			<primitive>	MidFront_crack_MidBack_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -355,7 +355,7 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -369,7 +369,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -383,7 +383,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouse_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Removed	</identifier>
+					<identifier>	SHIPWIREX_PBS_Removed	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -397,7 +397,7 @@
 			<primitive>	MidFront_patch_MidBack_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>

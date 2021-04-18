@@ -29,7 +29,7 @@
 			<primitive>	Full_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
