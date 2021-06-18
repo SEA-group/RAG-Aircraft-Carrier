@@ -1,14 +1,34 @@
 <ASA015_Midway_1945_Deck.mfm>
-	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
 	<property>	doubleSided
 		<Bool>	true	</Bool>
 	</property>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
 	<collisionFlags>	0	</collisionFlags>
-	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Deck_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Deck_a.dds	</Texture>
+	</property>
+	<!-- <property>	glassColor
+		<Vector4>	1 1 1 1	</Vector4>
+	</property>
+	<property>	glassTint
+		<Float>	0	</Float>
+	</property> -->
+	<property>	glassGlossiness
+		<Float>	100	</Float>
+	</property>
+	<property>	glassSpecular
+		<Float>	30	</Float>
+	</property>
+	<property>	glassSubmaterialThreshold
+		<Float>	0.05	</Float>
+	</property>
+	<property>	glassSubmaterialGlossiness
+		<Float>	10	</Float>
+	</property>
+	<property>	glassSubmaterialSpecular
+		<Float>	50	</Float>
+	</property>
+	<property>	glassAbsorptionCoef
+		<Float>	0.01	</Float>
 	</property>
 </ASA015_Midway_1945_Deck.mfm>

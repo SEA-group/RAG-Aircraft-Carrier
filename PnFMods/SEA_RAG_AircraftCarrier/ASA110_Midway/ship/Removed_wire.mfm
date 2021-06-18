@@ -14,10 +14,4 @@
 	<property>	doubleSided
 		<Bool>	false	</Bool>
 	</property>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
-	<property>	alphaReference
-		<Int>	150	</Int>
-	</property>
 </Removed_wire.mfm>
