@@ -1,5 +1,5 @@
 <AAD710_Douglas_BTD_1_skinned.mfm>
-	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<fx>	shaders/std_effects/PBS_ship_emissive_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
