@@ -1,5 +1,5 @@
 <Planes_Propeller_3_bw_alpha.mfm>
-	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<fx>	shaders/materials/pbs/propeller_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
