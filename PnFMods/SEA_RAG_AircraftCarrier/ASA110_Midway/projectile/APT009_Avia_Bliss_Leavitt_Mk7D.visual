@@ -1,47 +1,115 @@
 <APT009_Avia_Bliss_Leavitt_Mk7D.visual>
-	<boundingBox>
-		<min>	-0.066700 -0.066700 -0.060030	</min>
-		<max>	0.066700 0.066700 0.243387	</max>
-	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	Torpedo	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	HP_Trace	</identifier>
+				<identifier>	Torpedo	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.006670 1.000000	</row3>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
+				<node>
+					<identifier>	HP_Trace	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.006670 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Torpedo	</node>
-		<geometry>
-			<vertices>	TorpedoShape.vertices	</vertices>
-			<primitive>	TorpedoShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.060030	</min>
+		<max>	0.066700 0.066700 0.243387	</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	TorpedoShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Torpedo	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Torpedo_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Torpedo	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Torpedo_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Torpedo	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Torpedo_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Torpedo	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/projectile/APB006_AN_M66_GP2000lb.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	TorpedoShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	10.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Torpedo_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	20.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Torpedo_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	1000.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Torpedo_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </APT009_Avia_Bliss_Leavitt_Mk7D.visual>

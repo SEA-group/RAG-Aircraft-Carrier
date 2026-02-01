@@ -1,429 +1,991 @@
 <ASA015_Midway_1945_MidBack.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_DeckHouse_wire	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_Net	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_Underwater	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_MidFront	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_crack_MidFront_in	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_MidFront_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_MidFront_DeckHouse1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_MidFront_Underwater	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_Stern	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_crack_Stern_in	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_Stern_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_Stern_Underwater	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_patch_Stern	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_patch_Stern_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_patch_Stern_DeckHouse_wire	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_patch_Stern_Underwater	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-1.907944 -0.731136 -4.621370	</min>
 		<max>	1.924994 3.680073 3.331820	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	MidBack	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	MidBack_DeckHouse_wire	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_Net	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_Underwater	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_MidFront	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-				<node>
-					<identifier>	MidBack_crack_MidFront_in	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_MidFront_DeckHouse	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_MidFront_DeckHouse1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_MidFront_Underwater	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_Stern	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-				<node>
-					<identifier>	MidBack_crack_Stern_in	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_Stern_DeckHouse	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_Stern_Underwater	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_patch_Stern	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_patch_Stern_DeckHouse	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_patch_Stern_DeckHouse_wire	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_patch_Stern_Underwater	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_DeckHouse	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack	</node>
-		<geometry>
-			<vertices>	MidBackShape.vertices	</vertices>
-			<primitive>	MidBackShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_DeckHouse_wire	</node>
-		<geometry>
-			<vertices>	MidBack_DeckHouse_wireShape.vertices	</vertices>
-			<primitive>	MidBack_DeckHouse_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPWIREX_PBS_Removed	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_Net	</node>
-		<geometry>
-			<vertices>	MidBack_NetShape.vertices	</vertices>
-			<primitive>	MidBack_NetShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	GRID_Misc	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C001_Net_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_Underwater	</node>
-		<geometry>
-			<vertices>	MidBack_UnderwaterShape.vertices	</vertices>
-			<primitive>	MidBack_UnderwaterShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GlassRadar	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Radar.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_MidFront	</node>
-		<geometry>
-			<vertices>	MidBack_crack_MidFrontShape.vertices	</vertices>
-			<primitive>	MidBack_crack_MidFrontShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_MidFront_in	</node>
-		<geometry>
-			<vertices>	MidBack_crack_MidFront_inShape.vertices	</vertices>
-			<primitive>	MidBack_crack_MidFront_inShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Crack	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_MidFront_DeckHouse	</node>
-		<geometry>
-			<vertices>	MidBack_crack_MidFront_DeckHouseShape.vertices	</vertices>
-			<primitive>	MidBack_crack_MidFront_DeckHouseShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_MidFront_DeckHouse1	</node>
-		<geometry>
-			<vertices>	MidBack_crack_MidFront_DeckHouse1Shape.vertices	</vertices>
-			<primitive>	MidBack_crack_MidFront_DeckHouse1Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_MidFront_Underwater	</node>
-		<geometry>
-			<vertices>	MidBack_crack_MidFront_UnderwaterShape.vertices	</vertices>
-			<primitive>	MidBack_crack_MidFront_UnderwaterShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_Stern	</node>
-		<geometry>
-			<vertices>	MidBack_crack_SternShape.vertices	</vertices>
-			<primitive>	MidBack_crack_SternShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_Stern_in	</node>
-		<geometry>
-			<vertices>	MidBack_crack_Stern_inShape.vertices	</vertices>
-			<primitive>	MidBack_crack_Stern_inShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Crack	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_Stern_DeckHouse	</node>
-		<geometry>
-			<vertices>	MidBack_crack_Stern_DeckHouseShape.vertices	</vertices>
-			<primitive>	MidBack_crack_Stern_DeckHouseShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_Stern_Underwater	</node>
-		<geometry>
-			<vertices>	MidBack_crack_Stern_UnderwaterShape.vertices	</vertices>
-			<primitive>	MidBack_crack_Stern_UnderwaterShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_patch_Stern	</node>
-		<geometry>
-			<vertices>	MidBack_patch_SternShape.vertices	</vertices>
-			<primitive>	MidBack_patch_SternShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_patch_Stern_DeckHouse	</node>
-		<geometry>
-			<vertices>	MidBack_patch_Stern_DeckHouseShape.vertices	</vertices>
-			<primitive>	MidBack_patch_Stern_DeckHouseShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_patch_Stern_DeckHouse_wire	</node>
-		<geometry>
-			<vertices>	MidBack_patch_Stern_DeckHouse_wireShape.vertices	</vertices>
-			<primitive>	MidBack_patch_Stern_DeckHouse_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPWIREX_PBS_Removed	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_patch_Stern_Underwater	</node>
-		<geometry>
-			<vertices>	MidBack_patch_Stern_UnderwaterShape.vertices	</vertices>
-			<primitive>	MidBack_patch_Stern_UnderwaterShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_DeckHouse	</node>
-		<geometry>
-			<vertices>	MidBack_DeckHouseShape.vertices	</vertices>
-			<primitive>	MidBack_DeckHouseShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
-					<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	MidBackShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Removed	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_NetShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C001_Net_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_UnderwaterShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GlassRadar	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Radar.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFrontShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_DeckHouseShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_DeckHouse1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_DeckHouse1	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_UnderwaterShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_SternShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_DeckHouseShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_UnderwaterShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_SternShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_DeckHouseShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_DeckHouse_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_DeckHouse_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Removed	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_UnderwaterShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouseShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Removed	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Net_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C001_Net_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Underwater_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GlassRadar	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Radar.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_DeckHouse_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_Underwater_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_DeckHouse_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_Underwater_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_DeckHouse_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_DeckHouse_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_DeckHouse_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Removed	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_Underwater_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_wire_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Removed	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Underwater_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GlassRadar	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Radar.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_DeckHouse_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_Underwater_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_DeckHouse_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_Underwater_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_DeckHouse_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_DeckHouse_wire_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_DeckHouse_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Removed	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/Removed_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_Underwater_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Underwater_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_DeckHouse_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_Underwater_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_DeckHouse_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_Underwater_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_DeckHouse_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_Underwater_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_Underwater	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_RAG_AircraftCarrier/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	10.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBackShape	</renderSet>
+				<renderSet>	MidBack_DeckHouse_wireShape	</renderSet>
+				<renderSet>	MidBack_NetShape	</renderSet>
+				<renderSet>	MidBack_UnderwaterShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFrontShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_inShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_DeckHouseShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_DeckHouse1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_UnderwaterShape	</renderSet>
+				<renderSet>	MidBack_crack_SternShape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_inShape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_DeckHouseShape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_UnderwaterShape	</renderSet>
+				<renderSet>	MidBack_patch_SternShape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_DeckHouseShape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_DeckHouse_wireShape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_UnderwaterShape	</renderSet>
+				<renderSet>	MidBack_DeckHouseShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	27.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_lod1Shape	</renderSet>
+				<renderSet>	MidBack_DeckHouse_wire_lod1Shape	</renderSet>
+				<renderSet>	MidBack_Net_lod1Shape	</renderSet>
+				<renderSet>	MidBack_Underwater_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_DeckHouse_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_Underwater_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_DeckHouse_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_Underwater_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_DeckHouse_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_DeckHouse_wire_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_Underwater_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod1Shape	</renderSet>
+				<renderSet>	MidBack_DeckHouse_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	50.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_lod2Shape	</renderSet>
+				<renderSet>	MidBack_DeckHouse_lod2Shape	</renderSet>
+				<renderSet>	MidBack_DeckHouse_wire_lod2Shape	</renderSet>
+				<renderSet>	MidBack_Underwater_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_DeckHouse_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_Underwater_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_DeckHouse_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_Underwater_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod2Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_DeckHouse_lod2Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_DeckHouse_wire_lod2Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_Underwater_lod2Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	400.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_lod3Shape	</renderSet>
+				<renderSet>	MidBack_DeckHouse_lod3Shape	</renderSet>
+				<renderSet>	MidBack_Underwater_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_DeckHouse_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_Underwater_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_DeckHouse_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_Underwater_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod3Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_DeckHouse_lod3Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_Underwater_lod3Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </ASA015_Midway_1945_MidBack.visual>
